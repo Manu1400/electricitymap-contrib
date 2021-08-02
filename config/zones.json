@@ -1092,7 +1092,7 @@
     "capacity": {
       "biomass": 295,
       "gas": 11317,
-      "hydro": 8918,
+      "hydro": 9060,
       "nuclear": 13009,
       "solar": 478,
       "wind": 4786,
@@ -2037,13 +2037,15 @@
       ]
     ],
     "capacity": {
+      "battery storage": 2.3
       "hydro": 39.4,
       "oil": 66.7,
       "wind": 18.3
     },
     "contributors": [
       "https://github.com/corradio",
-      "https://github.com/q--"
+      "https://github.com/q--",
+      "https://github.com/Manu1400"
     ],
     "parsers": {
       "production": "FO.fetch_production"
